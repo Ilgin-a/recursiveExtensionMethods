@@ -1,0 +1,5 @@
+/Users/ilginarpaci1/Documents/sites/c#/recursiveExtensionMethods/obj/Debug/net6.0/recursiveExtensionMethods.csproj.AssemblyReference.cache
+/Users/ilginarpaci1/Documents/sites/c#/recursiveExtensionMethods/obj/Debug/net6.0/recursiveExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilginarpaci1/Documents/sites/c#/recursiveExtensionMethods/obj/Debug/net6.0/recursiveExtensionMethods.AssemblyInfoInputs.cache
+/Users/ilginarpaci1/Documents/sites/c#/recursiveExtensionMethods/obj/Debug/net6.0/recursiveExtensionMethods.AssemblyInfo.cs
+/Users/ilginarpaci1/Documents/sites/c#/recursiveExtensionMethods/obj/Debug/net6.0/recursiveExtensionMethods.csproj.CoreCompileInputs.cache
